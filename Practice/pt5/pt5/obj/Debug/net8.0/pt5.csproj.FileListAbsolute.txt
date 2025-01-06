@@ -1,0 +1,14 @@
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\bin\Debug\net8.0\pt5.exe
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\bin\Debug\net8.0\pt5.deps.json
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\bin\Debug\net8.0\pt5.runtimeconfig.json
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\bin\Debug\net8.0\pt5.dll
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\bin\Debug\net8.0\pt5.pdb
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\obj\Debug\net8.0\pt5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\obj\Debug\net8.0\pt5.AssemblyInfoInputs.cache
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\obj\Debug\net8.0\pt5.AssemblyInfo.cs
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\obj\Debug\net8.0\pt5.csproj.CoreCompileInputs.cache
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\obj\Debug\net8.0\pt5.dll
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\obj\Debug\net8.0\refint\pt5.dll
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\obj\Debug\net8.0\pt5.pdb
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\obj\Debug\net8.0\pt5.genruntimeconfig.cache
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\Practice\pt5\pt5\obj\Debug\net8.0\ref\pt5.dll
