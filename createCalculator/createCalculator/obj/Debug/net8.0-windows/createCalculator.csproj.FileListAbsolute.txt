@@ -1,0 +1,16 @@
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\bin\Debug\net8.0-windows\createCalculator.exe
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\bin\Debug\net8.0-windows\createCalculator.deps.json
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\bin\Debug\net8.0-windows\createCalculator.runtimeconfig.json
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\bin\Debug\net8.0-windows\createCalculator.dll
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\bin\Debug\net8.0-windows\createCalculator.pdb
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\obj\Debug\net8.0-windows\createCalculator.Form1.resources
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\obj\Debug\net8.0-windows\createCalculator.csproj.GenerateResource.cache
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\obj\Debug\net8.0-windows\createCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\obj\Debug\net8.0-windows\createCalculator.AssemblyInfoInputs.cache
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\obj\Debug\net8.0-windows\createCalculator.AssemblyInfo.cs
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\obj\Debug\net8.0-windows\createCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\obj\Debug\net8.0-windows\createCalculator.dll
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\obj\Debug\net8.0-windows\refint\createCalculator.dll
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\obj\Debug\net8.0-windows\createCalculator.pdb
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\obj\Debug\net8.0-windows\createCalculator.genruntimeconfig.cache
+C:\Users\rahul\OneDrive\Desktop\BSC_IT\sem4_1047\c#.net\createCalculator\createCalculator\obj\Debug\net8.0-windows\ref\createCalculator.dll
